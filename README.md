@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Test Server install
+https://github.com/jeonghwan-kim/lecture-vue-trello
